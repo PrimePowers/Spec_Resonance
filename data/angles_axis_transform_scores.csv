@@ -1,0 +1,17 @@
+axis,transform,mean_abs_gap
+sqrt_index,raw,2.8972990906475244
+sqrt_index,centered,2.8972990906475244
+log_1e9_1e10,diff,19.86150403265508
+log_1e9_1e10,diff_centered,19.86150403265508
+linear_index,diff,26.910893404433267
+linear_index,diff_centered,26.910893404433267
+log_1e9_3e9,diff,26.989841855830825
+log_1e9_3e9,diff_centered,26.989841855830825
+sqrt_index,diff,48.08503309951973
+sqrt_index,diff_centered,48.08503309951973
+linear_index,raw,1000000000.0
+linear_index,centered,1000000000.0
+log_1e9_3e9,raw,1000000000.0
+log_1e9_3e9,centered,1000000000.0
+log_1e9_1e10,raw,1000000000.0
+log_1e9_1e10,centered,1000000000.0
