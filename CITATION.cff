@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: Prime-Zeta Resonance Experiments
+message: If you use this repository, please cite it using the metadata below.
+type: software
+authors:
+  - family-names: Author
+    given-names: Unknown
+affiliation: Independent Research
+date-released: 2026-04-13
+repository-code: https://github.com/your-username/prime-zeta-resonance-experiments
+license: MIT
