@@ -3,9 +3,9 @@ title: Prime-Zeta Resonance Experiments
 message: If you use this repository, please cite it using the metadata below.
 type: software
 authors:
-  - family-names: Author
-    given-names: Unknown
-affiliation: Independent Research
+  - family-names: Stricker
+    given-names: Julius
+affiliation: Technical University of Cluj-Napoca
 date-released: 2026-04-13
-repository-code: https://github.com/your-username/prime-zeta-resonance-experiments
+repository-code: https://github.com/PrimePowers/Spec_Resonance
 license: MIT
