@@ -296,24 +296,4 @@ These are not consumed by `run_fd_pipeline.py`, but are included in `config.yaml
 
 These settings describe the stable compressed-core regime discussed in the paper, even though the corresponding scripts are not yet fully unified into the compact repository release.
 
----
 
-## Reproducibility limitations
-
-This wrapper makes the repository substantially more reproducible, but a few limitations remain:
-
-1. Several analysis scripts still encode important choices directly in the source code.
-2. The exact kernel-bank / compressed-core operator reconstruction used later in the paper is not yet fully exposed as a standalone script in this compact release.
-3. Some advanced outputs from the chat-based operator workflow were produced from live notebook state rather than from a dedicated repository script.
-
-Accordingly, `config.yaml` should be read as both:
-- a **runner configuration**, and
-- a **canonical parameter registry**.
-
----
-
-## Recommended use in the paper / archive
-
-If you publish the repository, cite this reproducibility layer explicitly in the README or supplementary material as:
-
-> The compact repository release includes a canonical `config.yaml` and a unified `run_fd_pipeline.py` wrapper, which reconstruct the script parameters used throughout the reported generation, resonance, and figure pipelines.
